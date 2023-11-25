@@ -1,0 +1,41 @@
+body {
+  background-attachment: fixed; 
+  background-color: #F2E8CF;
+}
+header {
+  background-color: #386641;  
+  color: #F2E8CF;
+  padding: 10px 10px; 
+}
+header h1 {
+  margin: 0;
+  padding: 10px; 
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 50px;
+}
+header h2 {
+  margin: 0;
+  padding: 10px; 
+  text-align: center;
+  font-family:'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+}
+header h3 {
+  margin: 0;
+  padding: 10px; 
+  text-align: center;
+  font-family:sans-serif;
+  font-size: 20px;
+}
+button {
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  color: #386641;;
+}
+img {
+  width: 45%;
+  height: auto;
+  margin: 0%;
+}
